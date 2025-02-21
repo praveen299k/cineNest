@@ -69,6 +69,10 @@ To fetch movie data, you need an API key from TMDB:
 - **Sort & Filter**: Use API endpoints to filter movies by genre, actor, or director.
 - **Explore Top-Rated Movies**: Retrieve and display top-rated movies from TMDB.
 
+## Screenshots
+You can view project screenshots at the following link:
+[Project Screenshots](https://docs.google.com/document/d/1A-2G3RhX_GAKpAkJeVfUuC1-rgovuAhkTrpNyd82FtQ/edit?usp=sharing)
+
 ## Acknowledgments
 - **TMDB API** for providing movie data.
 
